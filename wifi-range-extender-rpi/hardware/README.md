@@ -13,6 +13,3 @@ The proposed project is primarily software-configured and uses a Raspberry Pi si
 
 The original report describes an optional status LED connected to GPIO 17 (physical pin 11) through a 330-ohm resistor, with the other side connected to ground. The LED is not required for the network functionality and no LED-control program is included in this repository.
 
-## Circuit / PCB evidence
-
-Add your actual Fritzing, KiCad, or other circuit files here if you create them. Do not add placeholder Gerber files or claim that a PCB was fabricated if it was not.
