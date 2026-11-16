@@ -1,0 +1,24 @@
+PACKET TRACER SIMULATION OUTPUT
+================================
+
+Device: Smartphone0
+Target: 192.168.1.1
+
+Command:
+ping 192.168.1.1
+
+Observed output in the supplied screenshot:
+- Four echo replies received from 192.168.1.1
+- 32 bytes per reply
+- TTL: 255
+- Packet statistics: Sent = 4, Received = 4, Lost = 0
+- Packet loss: 0%
+
+Interpretation:
+The smartphone in the Packet Tracer simulation can reach the router IP address
+192.168.1.1 through the simulated wireless topology.
+
+Evidence limitation:
+This output belongs to the Packet Tracer simulation shown in
+../images/packet_tracer_topology.jpeg. It is not a physical Raspberry Pi test,
+an internet connectivity test, or a Wi-Fi range/speed measurement.
